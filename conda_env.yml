@@ -1,0 +1,10 @@
+name: conda_env
+channels:
+  - r
+dependencies:
+  - r=3.6.0
+  - r-devtools=2.4.0
+  - r-memoise=2.0.0
+  - r-pkgload=1.2.1
+  - r-futile.logger=1.4.3
+  - r-snow=0.4_3
